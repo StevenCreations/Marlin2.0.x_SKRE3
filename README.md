@@ -1,10 +1,10 @@
 # Marlin2.0.x_SKRE3
-
+!!must have skr mini 2.0!!
 
 // This is a precompiled by me, newest version of marlin 2.0x for the ender 3. The original bin codes from Bigtree tech tend to make machines malfunction for some odd reason. I eventually got around to recompiling the source and editing everything from the ground up for the machine and SKR board. You will need to do a PID autotune since I am using a (Gulfcoast) k-type thermocouple and my settings are wildly different than the stock thermistor. ( no code changed needed, this BIN will work for any system that uses a bl touch with the new board.
 
 requirements:
- --> skr mini e3 2.0 bard installed 
+ --> skr mini e3 2.0 board installed 
 --> Bl touch
  --> stock hot-end assembly ( not really required, more of a suggestion )
 
